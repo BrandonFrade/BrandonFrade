@@ -1,20 +1,18 @@
- My name is Brandon Frade
-A Software Engineering student, working to complete my honours degree at Belgium Campus ITversity
+<h1 align="center">Hi 👋, I'm Brandon</h1>
+<h3 align="center">A Software Engineering student, working to complete my honours degree at Belgium Campus ITversity I am a full-time third year software engineering student at Belgium Campus. Open to learning and adding to my skills on every occasion. I find interest in being innovative by finding new ways to solve existing problems. I am excited for my path ahead.</h3>
 
-I am a full-time third year software engineering student at Belgium Campus. Open to learning and adding to my skills on every occasion. I find interest in being innovative by finding new ways to solve existing problems. I am excited for my path ahead.
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&sxsrf=ALiCzsbeqNGo0pRXtvAM1Sf6fGLmAKm_pw:1665673786851&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiUzoGzvt36AhWC2aQKHZi-AAcQ_AUoAXoECAEQAw&biw=1680&bih=907&dpr=1#imgrc=dbrfb5dvHO4gVM"
 
-Skills: MySQL, C#, HTML, CSS, Python, MongoDB, JavaScript, Java and Node.js
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonfrade&label=Profile%20views&color=0e75b6&style=flat" alt="brandonfrade" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonfrade" alt="brandonfrade" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/brandon-frade-bf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brandon-frade-bf/" height="30" width="40" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BrandonFrade)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/brandon-frade-bf//)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BrandonFrade)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonFrade)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrandonFrade)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BrandonFrade)  
-
-![Profile views](https://gpvc.arturio.dev/BrandonFrade)  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonfrade&show_icons=true&locale=en&layout=compact" alt="brandonfrade" /></p>
