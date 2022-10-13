@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">A Software Engineering student, working to complete my honours degree at Belgium Campus ITversity I am a full-time third year software engineering student at Belgium Campus. Open to learning and adding to my skills on every occasion. I find interest in being innovative by finding new ways to solve existing problems. I am excited for my path ahead.</h3>
 
 
