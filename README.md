@@ -1,6 +1,7 @@
+![alt text](https://wallpaperaccess.com/full/36293.jpg)
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">A Software Engineering student, working to complete my honours degree at Belgium Campus ITversity I am a full-time third year software engineering student at Belgium Campus. Open to learning and adding to my skills on every occasion. I find interest in being innovative by finding new ways to solve existing problems. I am excited for my path ahead.</h3>
-![](https://github.com/BrandonFrade/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstZYNAsssLmMpQOBgFo6mI4d47NG39wCa9RTjCiT-IdWE1vXiWVl1u14JUBctK4M6tbY&usqp=CAU)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonfrade&label=Profile%20views&color=0e75b6&style=flat" alt="brandonfrade" /> </p>
 
