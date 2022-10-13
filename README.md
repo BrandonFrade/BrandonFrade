@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">A Software Engineering student, working to complete my honours degree at Belgium Campus ITversity I am a full-time third year software engineering student at Belgium Campus. Open to learning and adding to my skills on every occasion. I find interest in being innovative by finding new ways to solve existing problems. I am excited for my path ahead.</h3>
-![](https://github.com/BrandonFrade/https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3mpjso1d82TnZ5Y8d255ei&ust=1665760189650000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCy77W-3foCFQAAAAAdAAAAABAJ)
+![](https://github.com/BrandonFrade/https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3mpjso1d82TnZ5Y8d255ei&ust=1665760189650000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCy77W-3foCFQAAAAAdAAAAABAJ.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonfrade&label=Profile%20views&color=0e75b6&style=flat" alt="brandonfrade" /> </p>
 
